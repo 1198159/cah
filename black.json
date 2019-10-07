@@ -1,22 +1,16 @@
 {
   "bcards": [
     {
-      "bcard": {
-        "id": 1,
-        "text": "card 1"
-      }
+      "id": 1,
+      "text": "card 1"
     },
     {
-      "bcard": {
-        "id": 2,
-        "text": "card 2"
-      }
+      "id": 2,
+      "text": "card 2"
     },
     {
-      "bcard": {
-        "id": 3,
-        "text": "card 3"
-      }
+      "id": 3,
+      "text": "card 3"
     }
   ]
 }
