@@ -1,0 +1,22 @@
+{
+  "bcards": [
+    {
+      "bcard": {
+        "id": 1,
+        "text": "card 1"
+      }
+    },
+    {
+      "bcard": {
+        "id": 2,
+        "text": "card 2"
+      }
+    },
+    {
+      "bcard": {
+        "id": 3,
+        "text": "card 3"
+      }
+    }
+  ]
+}

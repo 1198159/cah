@@ -1,0 +1,22 @@
+{
+  "wcards": [
+    {
+      "wcard": {
+        "id": 1,
+        "text": "card 1w"
+      }
+    },
+    {
+      "wcard": {
+        "id": 2,
+        "text": "card 2w"
+      }
+    },
+    {
+      "wcard": {
+        "id": 3,
+        "text": "card 3w"
+      }
+    }
+  ]
+}
